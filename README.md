@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Latifa 
 
-<!--
-**Latifa09-K/Latifa09-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student passionate about Software Testing and Quality Assurance.
 
-Here are some ideas to get you started:
+## About Me
+I enjoy building practical QA projects that simulate real-world workflows, including test case management, bug reporting, and review systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I recently developed **Quality Hub**, a QA Training Portal that helps users practice testing concepts interactively.
+
+## Skills
+- Software Testing & QA
+- Test Case Design
+- Bug Reporting
+- Flask (Python)
+- HTML, CSS, JavaScript
+
+## Current Focus
+Improving my testing skills and preparing for real-world QA roles.
