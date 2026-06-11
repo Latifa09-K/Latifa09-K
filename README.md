@@ -13,9 +13,10 @@ I recently contributed to SparkHub, a student clubs management platform, and dev
 • Playwright
 • Azure DevOps
 • SQL
+• ISTQB CTF
 
 ## Current Focus
-Seeking QA opportunities and building real-world testing projects.
+Seeking QA opportunities while building real-world testing projects.
 
 ## Featured Projects
 ### SparkHub
