@@ -1,33 +1,56 @@
-# Hi, I'm Latifa 
-Software Engineering Graduate passionate about Software Testing and Quality Assurance.
+# Latifa Alanazi
+
+### QA Tester | Software Engineering Graduate | ISTQB CTFL Certified
+
+---
 
 ## About Me
-I enjoy building practical QA projects that simulate real-world workflows, including test case management, bug reporting, and review systems.
-I recently contributed to SparkHub, a student clubs management platform, and developed QA-focused projects such as Quality Hub and BuggyBank Playground.
 
+I am passionate about software quality and testing, with hands-on experience in manual testing, API validation, defect reporting, and test automation.
 
-## Skills
-• Software Testing & QA
-• Test Case Design
-• Bug Reporting
-• Postman
-• Playwright
-• Azure DevOps
-• SQL
-• ISTQB CTF
+My goal is to contribute to building reliable software products while continuously expanding my expertise in Quality Assurance.
 
-## Current Focus
-Seeking QA opportunities while building real-world testing projects.
+---
 
-## Featured Projects
+## What I Work With
+
+🔹 Software Testing & QA
+
+🔹 Test Case Design
+
+🔹 API Testing (Postman)
+
+🔹 Playwright Automation
+
+🔹 Azure DevOps
+
+🔹 SQL Queries
+
+🔹 Git & GitHub
+
+---
+
+## Selected Projects
+
 ### SparkHub
-Student clubs management platform developed as a graduation project. Contributed to front-end development using Angular and participated in testing activities. Features include club management, event organization, role-based access, and analytics.
-**Technologies:** Angular, Django, Azure DevOps, Postman
+Graduation project focused on student club management, where I contributed to testing activities and front-end development.
 
 ### Quality Hub
-QA training portal designed to help users practice software testing concepts through test cases, bug reporting, and API testing.
-**Technologies:** Flask, SQLite, JWT, Postman
+A QA training portal designed to practice software testing concepts, bug reporting, and API testing.
 
 ### BuggyBank Playground
-A practice banking application intentionally designed with software defects to help testers improve bug detection, reporting, and exploratory testing skills.
-**Technologies:** HTML, CSS, JavaScript
+A practice application intentionally built with defects to improve exploratory testing and bug detection skills.
+
+---
+
+## Certifications
+
+✓ ISTQB CTFL v4.0
+
+✓ Agile Project Management
+
+---
+
+## Current Goal
+
+Building practical QA projects and preparing for professional Software Testing opportunities.
