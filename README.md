@@ -1,6 +1,6 @@
 # Hi, I'm Latifa 
 
-Software Engineering student passionate about Software Testing and Quality Assurance.
+Software Engineering  passionate about Software Testing and Quality Assurance.
 
 ## About Me
 I enjoy building practical QA projects that simulate real-world workflows, including test case management, bug reporting, and review systems.
