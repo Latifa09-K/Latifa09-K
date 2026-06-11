@@ -5,6 +5,7 @@ Software Engineering Graduate passionate about Software Testing and Quality Assu
 I enjoy building practical QA projects that simulate real-world workflows, including test case management, bug reporting, and review systems.
 I recently contributed to SparkHub, a student clubs management platform, and developed QA-focused projects such as Quality Hub and BuggyBank Playground.
 
+
 ## Skills
 • Software Testing & QA
 • Test Case Design
