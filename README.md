@@ -1,60 +1,47 @@
-# Hi, I'm Latifa
+# Latifa Alanazi
 
-### Software Engineering Graduate specializing in Quality Assurance and Software Testing
+### Quality Assurance Engineer | ISTQB CTFL Certified
 
----
-
-## Professional Summary
-
-Dedicated QA Tester with practical experience in manual testing, API testing, test case design, defect reporting, and test automation.
-
-Experienced in working with real projects using Azure DevOps, Postman, and Playwright, with a strong interest in software quality, process improvement, and continuous learning.
+Turning software requirements into reliable, tested, and user-focused products.
 
 ---
 
-## Technical Skills
+## Background
 
-• Software Testing & QA
-
-• Test Case Design
-
-• API Testing
-
-• Bug Reporting
-
-• Playwright Automation
-
-• Postman
-
-• Azure DevOps
-
-• SQL
-
-• Git & GitHub
+Software Engineering graduate with practical experience in software testing, defect management, API validation, and test automation. Passionate about improving software quality through structured testing and continuous improvement.
 
 ---
 
-## Project Portfolio
+## Areas of Interest
+
+- Quality Assurance
+- Test Automation
+- API Testing
+- Defect Management
+- Software Quality Processes
+- Agile Testing
+
+---
+
+## Toolbox
+
+Postman • Playwright • Azure DevOps • SQL • Git • GitHub • Flask
+
+---
+
+## Notable Projects
 
 ### SparkHub
-Student clubs management platform developed as a graduation project.
+Graduation project focused on student club management and engagement.
 
 ### Quality Hub
-QA training portal for software testing practice.
+QA training platform for test cases, bug reporting, and API testing.
 
 ### BuggyBank Playground
-Interactive testing playground designed for bug discovery and exploratory testing.
+Interactive testing environment designed to strengthen bug detection and exploratory testing skills.
 
 ---
 
-## Certifications
+## Professional Goal
 
-ISTQB CTFL v4.0
-
-Agile Project Management
-
----
-
-## Career Objective
-
-Seeking opportunities to contribute to quality-driven software teams while expanding my expertise in Software Testing and Quality Assurance.
+To grow as a Quality Assurance professional and contribute to building software that users can trust.
