@@ -1,6 +1,6 @@
 # Hi,I'm Latifa Alanazi
 
-### Quality Assurance Engineer | ISTQB CTFL Certified
+###Software Testing Enthusiast | ISTQB CTFL Certified
 
 Turning software requirements into reliable, tested, and user-focused products.
 
