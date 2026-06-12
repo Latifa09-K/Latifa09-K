@@ -1,17 +1,60 @@
-# Latifa Alanazi
+# Hi, I'm Latifa
 
-QA Tester | ISTQB CTFL Certified | Software Engineering Graduate
+### Software Engineering Graduate specializing in Quality Assurance and Software Testing
 
-Building reliable software through testing, automation, and quality assurance.
+---
 
-## Expertise
-QA • Test Design • API Testing • Automation • Defect Management
+## Professional Summary
 
-## Tools
-Postman • Playwright • Azure DevOps • SQL • GitHub
+Dedicated QA Tester with practical experience in manual testing, API testing, test case design, defect reporting, and test automation.
 
-## Featured Projects
-SparkHub • Quality Hub • BuggyBank Playground
+Experienced in working with real projects using Azure DevOps, Postman, and Playwright, with a strong interest in software quality, process improvement, and continuous learning.
 
-## Currently
-Exploring advanced QA practices and automation testing.
+---
+
+## Technical Skills
+
+• Software Testing & QA
+
+• Test Case Design
+
+• API Testing
+
+• Bug Reporting
+
+• Playwright Automation
+
+• Postman
+
+• Azure DevOps
+
+• SQL
+
+• Git & GitHub
+
+---
+
+## Project Portfolio
+
+### SparkHub
+Student clubs management platform developed as a graduation project.
+
+### Quality Hub
+QA training portal for software testing practice.
+
+### BuggyBank Playground
+Interactive testing playground designed for bug discovery and exploratory testing.
+
+---
+
+## Certifications
+
+ISTQB CTFL v4.0
+
+Agile Project Management
+
+---
+
+## Career Objective
+
+Seeking opportunities to contribute to quality-driven software teams while expanding my expertise in Software Testing and Quality Assurance.
